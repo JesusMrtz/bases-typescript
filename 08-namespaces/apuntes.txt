@@ -1,0 +1,1 @@
+Los namespaces ayuda agrupar cierta lógica para poder exportar en lugares diferentes lo que se necesita

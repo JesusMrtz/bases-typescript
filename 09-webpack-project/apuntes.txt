@@ -1,0 +1,2 @@
+Una función generica puede recibir cualquier tipo de argumento
+  * Recibe un tipo de dato como parametro y su retorno será del mismo tipo

@@ -1,0 +1,9 @@
+Para depurar el código en typeScript junto a los archivos JavaScript se habilitar la propiedad sourceMap en true
+
+para eliminar los comentarios al momento de transpilar a JavaScript se habilita la propiedad removeComments en true
+
+Para excluir archivos o carpetas para que no sean transpiladas se utiliza la propiedad "exclude": []
+y para incluirlos se utiliza la propiedad "include": []
+
+
+PAra darle archivos de salida para juntar todos nuestros archivos de typeScript a un único archivo se utiliza la propiedad "outFile"

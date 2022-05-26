@@ -1,0 +1,7 @@
+TSConfig.json
+  - Es el archivo de configuración para typescript
+  * para crear el archivo use: tsc --init
+
+
+Para habilitar el modo observador se usa el siguiente comando
+  * tsc --watch

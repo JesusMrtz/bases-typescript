@@ -1,0 +1,1 @@
+Las interfaces son lo mismo que los types pero la unica diferencia es que las interfaces se pueden heredar, pero los types no se pueden heredar.

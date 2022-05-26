@@ -1,0 +1,22 @@
+Tipos de datos en Typescript
+  
+  - Primitivos
+    * String 
+    * Number
+    * Boolean
+    * Null
+    * Undefined
+    * Symbol
+      * Sirve para tener en un objeto una propiedad que sea única
+
+  - Compuestos
+    * Objeto literales
+    * Funciones
+    * Clases
+    * Arreglos
+
+  - Nuevos tipos gracias a Typescript
+    * Crear nuevos tipos
+    * Interfaces
+    * Genericos
+    * Tuplas
